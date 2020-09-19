@@ -1,9 +1,5 @@
 import os, shutil, os.path
 
-
-##old_location = "/Volumes/SAMSUNG T5/Chrome Download/untitled folder/old"
-##new_location = "/Volumes/SAMSUNG T5/Chrome Download/untitled folder/new"
-
 old_location = ""
 new_location = ""
 
